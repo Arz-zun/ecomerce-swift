@@ -1,0 +1,30 @@
+.cart-product__container {
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    border-radius: 5px;
+    margin: 15px 0px;
+    padding: 5px;
+}
+
+.cart-product__title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.cart-product__highlight {
+    color: red;
+    font-weight: 500;
+}
+
+.cart-product__btn-box {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.cart-product__btn-box button {
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}

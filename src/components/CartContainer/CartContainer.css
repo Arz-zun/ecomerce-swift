@@ -1,0 +1,23 @@
+.cart__cover {
+    padding: 8px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    transition: all 0.2s ease-in;
+    cursor: default;
+}
+
+.cart__title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.cart-text__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.cart-data {
+    font-weight: 600;
+}
